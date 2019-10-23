@@ -13,6 +13,18 @@
                 }
         },
         {
+                "id": "17.11.0182",
+                "name": "Danang Rikiyanto",
+                "email": "anangrikiyanto@gmail.com",
+                "address": "Cilacap-indonesia",
+                "gender" : "laki-laki",
+                "phone": {
+                    "mobile": "0812 6900000000",
+                    "home": "00 0000",
+                    "office": "0192"
+                }
+        },
+        {
                 "id": "17.11.0000",
                 "name": "Hendri K",
                 "email": "hendrihen@gmail.com",
