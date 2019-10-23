@@ -1,14 +1,19 @@
-{
-    "contacts": 
-        {
-                "id": "c200",
-                "name": "Ravi Tamada",
-                "email": "ravi@gmail.com",
-                "address": "xx-xx-xxxx,x - street, x - country",
-                "gender" : "male",
-                "phone": {
-                    "mobile": "+91 0000000000",
-                    "home": "00 000000",
-                    "office": "00 000000"
-                            }
-        }}
+{ 
+  "sammy" : {
+    "username"  : "SammyShark",
+    "location"  : "Indian Ocean",
+    "online"    : true,
+    "followers" : 987
+  },
+  "jesse" : {
+    "username"  : "JesseOctopus",
+    "location"  : "Pacific Ocean",
+    "online"    : false,
+    "followers" : 432
+  },
+  "drew" : {
+    "username"  : "DrewSquid",
+    "location"  : "Atlantic Ocean",
+    "online"    : false,
+    "followers" : 321
+  }}
