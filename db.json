@@ -1,15 +1,16 @@
-{ 
-  "latihan" : {
-    "username"  : "SammyShark",
-    "location"  : "Indian Ocean",
-  },
-  "latihan1" : {
-    "username"  : "JesseOctopus",
-    "location"  : "Pacific Ocean",
-    
-  },
-  "latihan2" : {
-    "username"  : "DrewSquid",
-    "location"  : "Atlantic Ocean",
-  
-  }}
+[
+    {
+        "latihan": {
+            "firstName": "Lokesh",
+            "lastName": "Gupta",
+            "website": "howtodoinjava.com"
+        }
+    },
+    {
+        "latihan": {
+            "firstName": "Brian",
+            "lastName": "Schultz",
+            "website": "example.com"
+        }
+    }
+]
