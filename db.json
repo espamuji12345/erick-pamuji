@@ -1,17 +1,17 @@
 { 
-  "sammy" : {
+  "latihan" : {
     "username"  : "SammyShark",
     "location"  : "Indian Ocean",
     "online"    : true,
     "followers" : 987
   },
-  "jesse" : {
+  "latihan1" : {
     "username"  : "JesseOctopus",
     "location"  : "Pacific Ocean",
     "online"    : false,
     "followers" : 432
   },
-  "drew" : {
+  "latihan2" : {
     "username"  : "DrewSquid",
     "location"  : "Atlantic Ocean",
     "online"    : false,
