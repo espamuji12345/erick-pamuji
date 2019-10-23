@@ -24,6 +24,30 @@
                     "office": "0192"
                 }
         },
+          {
+                "id": "17.11.0000",
+                "name": "DINA F",
+                "email": "hendrihen@gmail.com",
+                "address": "NGAWI",
+                "gender" : "laki-laki",
+                "phone": {
+                    "mobile": "0812 4500000000",
+                    "home": "00 000",
+                    "office": "09090" 
+                }
+          },
+                {
+                "id": "17.11.0000",
+                "name": "DINA F",
+                "email": "hendrihen@gmail.com",
+                "address": "NGAWI",
+                "gender" : "laki-laki",
+                "phone": {
+                    "mobile": "0812 4500000000",
+                    "home": "00 000",
+                    "office": "09090" 
+                }
+        },
          {
                 "id": "17.11.0202",
                 "name": "Dede irawan",
@@ -108,17 +132,7 @@
                     "office": "0192"
                 }
         },
-        {
-                "id": "17.11.0000",
-                "name": "Hendri K",
-                "email": "hendrihen@gmail.com",
-                "address": "Nusawungu-Cilacap",
-                "gender" : "laki-laki",
-                "phone": {
-                    "mobile": "0812 4500000000",
-                    "home": "00 000",
-                    "office": "09090" 
-                }
+      
         }
     ]
 }
