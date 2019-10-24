@@ -120,18 +120,8 @@
                     "home": "00 0000",
                     "office": "0192"
                 }
-        },
-        {
-                "id": "17.11.0357",
-                "name": "Ngejo",
-                "email": "alfabae@gmail.com",
-                "address": "Cilacap-indonesia",
-                "gender" : "laki-laki",
-                "phone": {
-                    "mobile": "0822 3400000000",
-                    "home": "00 0000",
-                    "office": "0192"
-                }
+      
+     
         }
     ]
 }
